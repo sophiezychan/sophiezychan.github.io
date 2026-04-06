@@ -140,6 +140,11 @@ const adventures = [
 	title: "Markville & Haidilao",
 	date: "2025-12-29",
   },
+  {
+	src: "https://www.dropbox.com/scl/fi/2ttxb1czw4c39gwa8jzrh/20260321-mathgradball.jpg?rlkey=k41n88teq8olti4qh3nx2ixio&st=zth4okqd&raw=1",
+	title: "Math Grad Ball & Send Off",
+	date: "2026-03-21",
+  }
 ];
 
 export default function Adventures() {
