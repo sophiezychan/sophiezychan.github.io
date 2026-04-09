@@ -8,14 +8,17 @@ const redhat = Red_Hat_Text({ subsets: ["latin"] });
 export const metadata = {
   title: "Sophie Chan",
   description: "Sophie personal website",
+  verification: {
+    google: "0zBu8UgNYDkIFTkLP2OQkcR7_mQNyQ8zM-DVu_J8MOc",
+  }
 };
 
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <head>
-          <link rel="icon" href="./logo.svg" />
-        </head>
+        <link rel="icon" href="./logo.svg" />
+      </head>
       <body className={redhat.className}>
         <Navbar />
         {children}
