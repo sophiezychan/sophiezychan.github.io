@@ -9,7 +9,7 @@ export const metadata = {
   title: "Sophie Chan",
   description: "Sophie personal website",
   verification: {
-    google: "0zBu8UgNYDkIFTkLP2OQkcR7_mQNyQ8zM-DVu_J8MOc",
+    google: "yL7Br8N9Yv44kECFfrkB3WUckwRD2E0WJIC2QFNaxXY",
   }
 };
 
