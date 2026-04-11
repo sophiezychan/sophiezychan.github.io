@@ -63,7 +63,7 @@ export default function Home() {
     <main className="Home">
       <div className="content-wrapper">
         <div className={`icon-wrapper ${isLightMode ? '' : 'dark-mode'}`}>
-          <a href="https://github.com/sophiec103" target="_blank" rel="noopener noreferrer"><FaGithub size={'1.25em'}/> </a>
+          <a href="https://github.com/sophiezychan" target="_blank" rel="noopener noreferrer"><FaGithub size={'1.25em'}/> </a>
           <a href="https://drive.google.com/file/d/1d9qqxCgIDhERyow4oegd2uBBidDBf6ar/view" target="_blank" rel="noopener noreferrer"><FaFileLines size={'1.25em'} /> </a>
           <a href="https://www.linkedin.com/in/s94chan/" target="_blank" rel="noopener noreferrer"><FaLinkedin  size={'1.25em'}/> </a>
         </div>
