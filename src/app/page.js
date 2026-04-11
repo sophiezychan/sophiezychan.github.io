@@ -63,9 +63,9 @@ export default function Home() {
     <main className="Home">
       <div className="content-wrapper">
         <div className={`icon-wrapper ${isLightMode ? '' : 'dark-mode'}`}>
-          <a href="https://github.com/sophiec103"><FaGithub size={'1.25em'}/> </a>
-          <a href="https://drive.google.com/file/d/1d9qqxCgIDhERyow4oegd2uBBidDBf6ar/view"><FaFileLines size={'1.25em'} /> </a>
-          <a href="https://www.linkedin.com/in/s94chan/"><FaLinkedin  size={'1.25em'}/> </a>
+          <a href="https://github.com/sophiec103" target="_blank" rel="noopener noreferrer"><FaGithub size={'1.25em'}/> </a>
+          <a href="https://drive.google.com/file/d/1d9qqxCgIDhERyow4oegd2uBBidDBf6ar/view" target="_blank" rel="noopener noreferrer"><FaFileLines size={'1.25em'} /> </a>
+          <a href="https://www.linkedin.com/in/s94chan/" target="_blank" rel="noopener noreferrer"><FaLinkedin  size={'1.25em'}/> </a>
         </div>
         <div className="text-wrapper">
           <h2 className="greeting">Hello!</h2>
@@ -81,13 +81,13 @@ export default function Home() {
           <p className="description">
             I&apos;m currently studying Computer Science at the University of
             Waterloo. I&apos;ve had some really great experiences working at
-            <a href="https://www.uber.com/"> Uber</a>,
-            <a href="https://www.databricks.com/"> Databricks</a>,
-            <a href="https://www.spscommerce.com/"> SPS Commerce</a>,
-            <a href="https://www.faire.com/"> Faire</a>,
-            <a href="https://charitycan.ca/"> CharityCAN</a>,
-            <a href="https://adentro.com/"> Adentro</a>, and
-            <a href="https://atomic.vc/"> Atomic VC</a>. I&apos;m seeking 2026 new grad opportunities, and I look forward to making an
+            <a href="https://www.uber.com/" target="_blank" rel="noopener noreferrer"> Uber</a>,
+            <a href="https://www.databricks.com/" target="_blank" rel="noopener noreferrer"> Databricks</a>,
+            <a href="https://www.spscommerce.com/" target="_blank" rel="noopener noreferrer"> SPS Commerce</a>,
+            <a href="https://www.faire.com/" target="_blank" rel="noopener noreferrer"> Faire</a>,
+            <a href="https://charitycan.ca/" target="_blank" rel="noopener noreferrer"> CharityCAN</a>,
+            <a href="https://adentro.com/" target="_blank" rel="noopener noreferrer"> Adentro</a>, and
+            <a href="https://atomic.vc/" target="_blank" rel="noopener noreferrer"> Atomic VC</a>. I&apos;m seeking 2026 new grad opportunities, and I look forward to making an
             impact wherever I go next!
           </p>
         </div>
