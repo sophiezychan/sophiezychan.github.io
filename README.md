@@ -1,4 +1,4 @@
-# [sophiec103.github.io](https://sophiec103.github.io/)
+# [sophiezychan.github.io](https://sophiec103.github.io/)
 
 Welcome to my personal site! 
 
