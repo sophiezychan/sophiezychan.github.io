@@ -5,7 +5,7 @@ import Gallery from "../gallery";
 import { useDarkMode } from "../useDarkMode";
 import { useState, useEffect, useMemo, useRef, useCallback } from "react";
 
-const numImages = 50;
+const numImages = 58;
 const imagePaths = [];
 for (let i = 1; i <= numImages; i++) {
   imagePaths.push(`/photos/${i}.jpg`);
