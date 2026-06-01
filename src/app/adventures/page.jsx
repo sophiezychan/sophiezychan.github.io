@@ -144,6 +144,31 @@ const adventures = [
 	src: "https://www.dropbox.com/scl/fi/2ttxb1czw4c39gwa8jzrh/20260321-mathgradball.jpg?rlkey=k41n88teq8olti4qh3nx2ixio&st=zth4okqd&raw=1",
 	title: "Math Grad Ball & Send Off",
 	date: "2026-03-21",
+  },
+  {
+	src: "https://www.dropbox.com/scl/fi/cntkgyoa1i9g4npiab1ai/20260502-seoul.jpg?rlkey=jccx3zuzrc24aqglxdj72zpcd&st=hss7c0uk&raw=1",
+	title: "Seoul",
+	date: "2026-05-02",
+  },
+  {
+	src: "https://www.dropbox.com/scl/fi/djqdvs1s2vhnjo4b1apun/20260507-tokyo.jpg?rlkey=8txuiwguw8t8jj99vv2eifwga&st=vrq0p3w0&raw=1",
+	title: "Tokyo & Fujiyoshida",
+	date: "2026-05-07",
+  },
+  {
+	src: "https://www.dropbox.com/scl/fi/5l0hs6wyzgsw7njz890y8/20260512-tokyo-disney.jpg?rlkey=qw4e3ceivk9fqqnwnx7hzuzfh&st=imy0rn1q&raw=1",
+	title: "Tokyo Disneyland & DisneySea",
+	date: "2026-05-16",
+  },
+  {
+	src: "https://www.dropbox.com/scl/fi/oukkvdp0d726dm05xoihx/20260516-kyoto.jpg?rlkey=apaucuh5x6ney17ln66kl64ms&st=9hovfgut&raw=1",
+	title: "Kyoto",
+	date: "2026-05-16",
+  },
+  {
+	src: "https://www.dropbox.com/scl/fi/th6b9m0vn4hhkxqu2z5nu/20260519-osaka-nara.jpg?rlkey=qrkh6bkp2z3fdri2x6ciqdwra&st=mcs2daka&raw=1",
+	title: "Osaka & Nara",
+	date: "2026-05-19",
   }
 ];
 
