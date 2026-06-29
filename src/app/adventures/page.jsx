@@ -169,6 +169,11 @@ const adventures = [
 	src: "https://www.dropbox.com/scl/fi/th6b9m0vn4hhkxqu2z5nu/20260519-osaka-nara.jpg?rlkey=qrkh6bkp2z3fdri2x6ciqdwra&st=mcs2daka&raw=1",
 	title: "Osaka & Nara",
 	date: "2026-05-19",
+  },
+  {
+  src: "https://www.dropbox.com/scl/fi/rl3d342e6h5hwn19zbp9d/20260617-graduation.jpg?rlkey=g4t9xq8ua0y1cp3367172hyvr&st=d4tss60w&raw=1",
+  title: "UWaterloo Convocation",
+  date: "2026-06-17",
   }
 ];
 

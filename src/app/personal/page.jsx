@@ -44,6 +44,10 @@ const images = [
   {
     src: "https://www.dropbox.com/scl/fi/l7fnmfbpucrfrzl2qvwhm/uwaterloo-math-grad-ball.jpg?rlkey=2tlxtgmbuyj7qr6zku38f2iys&st=u7yee2mu&raw=1",
     description: "UWaterloo Math Graduation Ball",
+  },
+  {
+    src: "https://www.dropbox.com/scl/fi/9cpidtv7wer4enyucykxj/uwaterloo-grad.jpg?rlkey=gg4vai7pgv3x4ojiqb6rbite8&st=hbxepdcc&raw=1",
+    description: "UWaterloo Grad Convocation",
   }
 ];
 
