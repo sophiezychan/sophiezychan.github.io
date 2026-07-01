@@ -174,6 +174,21 @@ const adventures = [
   src: "https://www.dropbox.com/scl/fi/rl3d342e6h5hwn19zbp9d/20260617-graduation.jpg?rlkey=g4t9xq8ua0y1cp3367172hyvr&st=d4tss60w&raw=1",
   title: "UWaterloo Convocation",
   date: "2026-06-17",
+  },
+  {
+  src: "https://www.dropbox.com/scl/fi/xkkf4grausho434ptsyn1/20260618-amsterdam.jpg?rlkey=oto8sorkvc7jg74bemm2z56pt&st=h09taywp&raw=1",
+  title: "Amsterdam",
+  date: "2026-06-18",
+  },
+  {
+  src: "https://www.dropbox.com/scl/fi/xduofgapfd87ymvhjxbt3/20260620-prague.jpg?rlkey=hl3yus1oumnnddl9zvajvvjnl&st=znd6hw6g&raw=1",
+  title: "Prague",
+  date: "2026-06-20",
+  },
+  {
+  src: "https://www.dropbox.com/scl/fi/pie5xct9tku90wmngfgh2/20260622-vienna.jpg?rlkey=ym23ov4jpc27gcxq5bt13v0mi&st=ya2x85so&raw=1",
+  title: "Vienna",
+  date: "2026-06-22",
   }
 ];
 
