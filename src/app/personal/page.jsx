@@ -48,6 +48,10 @@ const images = [
   {
     src: "https://www.dropbox.com/scl/fi/9cpidtv7wer4enyucykxj/uwaterloo-grad.jpg?rlkey=gg4vai7pgv3x4ojiqb6rbite8&st=hbxepdcc&raw=1",
     description: "UWaterloo Grad Convocation",
+  },
+  {
+    src: "https://www.dropbox.com/scl/fi/fx8ikod0hq345sfghz2h6/pin-board.jpg?rlkey=04l8qcf36iz44oknlc40y8q9n&st=sgk7lojr&raw=1",
+    description: "Pin Board",
   }
 ];
 
