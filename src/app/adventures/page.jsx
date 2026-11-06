@@ -189,6 +189,11 @@ const adventures = [
   src: "https://www.dropbox.com/scl/fi/pie5xct9tku90wmngfgh2/20260622-vienna.jpg?rlkey=ym23ov4jpc27gcxq5bt13v0mi&st=ya2x85so&raw=1",
   title: "Vienna",
   date: "2026-06-22",
+  },
+  {
+    src: "https://www.dropbox.com/scl/fi/y7xnw7nl1uz11m5if4pcx/20260910-gta-autumn.jpg?rlkey=p03cldgi3t2noyjq5faytut4a&st=svif0g5e&raw=1",
+    title: "Greater Toronto Autumn",
+    date: "2026-09-10"
   }
 ];
 
